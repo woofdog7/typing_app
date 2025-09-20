@@ -6,6 +6,12 @@ Incorrect > highlights in red
 
 Shows mistakes + accuracy at end
 
+Usage:
+just run the file 4Head
+```bash
+python main.py
+```
+
 to fix:
 - Can't highlight a space in red, can fix by swapping in something else in render
 - newline space looks a bit janky
